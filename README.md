@@ -1,2 +1,2 @@
-# ngrx-exercise
-Project to test rgrx
+# ng-exercise-ngrx
+Project to test rgrx in angular project
